@@ -33,26 +33,26 @@ Expériences Professionnelles
 
 Développeur Web Python/Django (2013-2014)
 -----------------------------------------
-
 	ACE Communication/  `wakineo`_ : Site Web de petites annonces.
 
 .. _wakineo: http://www.wakineo.com
 
-* Analyse, Conception, Développement.
-* Intégration,
-* Mise en production, Administration serveur
-* Intégration de flux csv et xml
 
+* Reprise, Upgrade et Developpement du frontend, du backend et de la stack technique.
+* Mise en production, Administration serveur.
+* Conception API pour application mobile.
+* Optimisation de l'intégration quotidienne d'annonces externes (csv et xml , ~ 20 formats)
 
 **Environnement Technique**
-	Python 2.7, Django: 1.4, PostgresSQL 9.1, Redis, ES, Xen,
+	Python 2.7, Django: 1.4, PostgresSQL 9.1, Antidot, Redis, ES, Xen,
 
 
 Développeur Web Indépendant (2011-2013)
 ---------------------------------------
 
-Projet BCA : Base de Connaissance et d'Analyse
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BCA : Base de Connaissance et d'Analyse
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 	Pour la médecine du travail Côte-d'Or.
 
 Outil alliant zone documentaire (django-cms + sphinx) et application d'aide à l'analyse (django, interface Web, export PDF).
@@ -71,13 +71,13 @@ Autres projets
 * http://www.atelier-du-regard.com (thème WP)
 * http://www.ireis.org (corrections et actualisation sur Joomla)
 
-Responsable informatique / Graphiste de 2007 à 2010
+Responsable informatique / Graphiste (2007 à 2010)
 ---------------------------------------------------
 
 	Olmi Communication (30 salariés)
 
 **Programmation**
-	Développement d'un ERP en 4D.
+	Développement de l'ERP interne (4D).
 	Scripting Python : traitement d'image, sauvegarde.
 	Développement des sites internet internes (php, mysql).
 
@@ -85,9 +85,9 @@ Responsable informatique / Graphiste de 2007 à 2010
 	Serveur Windows, NAS, 15 postes utilisateurs (mac, Windows).
 
 **Graphisme**
-	Travaux de chromie : Préparation d'images de parquets pour une impression offset.
-	Travaux de PAO : Fiche technique, affiches. (indesign, inkscape, gimp)
-	Conception 3D :	Pour PAO et maquette virtuelle. (blender)
+	*Chromie* Préparation d'images de parquets pour une impression offset (photoshop).
+	*PAO* Fiche technique, affiches (indesign, inkscape, gimp).
+	*3D* Pour PAO et maquette virtuelle (blender).
 
 Etudes – Formations
 ===================
